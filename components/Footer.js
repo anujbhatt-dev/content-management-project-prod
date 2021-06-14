@@ -1,5 +1,5 @@
 const Footer = _ =>{
-    return {
+    return (
         <footer className="footer">
             <div className="content has-text-centered">
                 <p>
@@ -9,6 +9,6 @@ const Footer = _ =>{
                 </p>
             </div>
         </footer>
-    }
+    )
 }
 export default Footer
