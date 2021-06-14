@@ -1,6 +1,6 @@
 import axios from "axios"
 import ResourceForm from "components/ResourceForm"
-import Layout from "components/layout"
+import Layout from "components/Layout"
 import { useRouter }  from "next/router"
 
 
