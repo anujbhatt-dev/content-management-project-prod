@@ -39,7 +39,7 @@ const Navbar = _ =>{
               Add
               </a>
             </Link>
-            <Link href="/feature">
+            <Link href="/">
               <a className="navbar-item is-size-5 has-text-weight-semibold">
               Features
               </a>
